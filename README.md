@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hsyl20&count_private=true&show_icons=true&theme=smaterial" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsyl20&layout=compact&theme=material"/>
+
 <!--
 **hsyl20/hsyl20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
